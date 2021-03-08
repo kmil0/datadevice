@@ -1,0 +1,29 @@
+PODS:
+  - datadevice_plugin (0.0.1):
+    - Flutter
+    - SSKeychain
+  - Flutter (1.0.0)
+  - SSKeychain (1.4.1)
+
+DEPENDENCIES:
+  - datadevice_plugin (from `.symlinks/plugins/datadevice_plugin/ios`)
+  - Flutter (from `Flutter`)
+
+SPEC REPOS:
+  trunk:
+    - SSKeychain
+
+EXTERNAL SOURCES:
+  datadevice_plugin:
+    :path: ".symlinks/plugins/datadevice_plugin/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  datadevice_plugin: 3a40f546963f138c3f334cda6363f2602ac94865
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  SSKeychain: 55cc80f66f5c73da827e3077f02e43528897db41
+
+PODFILE CHECKSUM: 52463e42e9ac05f24ebabd7ff2e6f3e92543affb
+
+COCOAPODS: 1.10.1
